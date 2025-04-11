@@ -5,6 +5,7 @@
 layout: home
 ---
 
+
 ## Insights that drive impact
 
 We help you understand what drives behavior and how to effectively influence it. Using the scientifically validated Reasoned Action Approach, we identify the psychological factors that shape people's intentions and behaviors. Through qualitative and quantitative research, we uncover what you need to target, say, and do to maximize the impact of your campaigns, interventions, and studies.
