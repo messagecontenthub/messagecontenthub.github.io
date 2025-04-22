@@ -14,7 +14,7 @@ Buy now, pay later options allow consumers to pay for their online purchases lat
 
 ![safesex](/assets/img/safesex.jpg){: style="width: 140px; height: 140px; float: left; margin-right: 25px;" }
 
-**Condom use during one-night stands**  
+**Promoting condom use during one-night stands**  
 Promoting condom use during one-night stands can reduce the prevalence of STDs among college students. We examined the beliefs that drive students' intention to use a condom during a one-night stand to determine the key beliefs that interventions should target to promote this healthy behavior. Image designed by Freepik [www.freepik.com](https://freepik.com/){:target="_blank"}
 
 <br>
