@@ -2,15 +2,10 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-#layout: home #origineel
-
-layout: home
-title: Insights that drive impact
-hide_title: true
+layout: home 
 ---
 
-
-## Insights that drive impact
+**Insights that drive impact**
 
 We help you understand what drives behavior and how to effectively influence it. Using the scientifically validated Reasoned Action Approach, we identify the psychological factors that shape people's intentions and behaviors. Through qualitative and quantitative research, we uncover what you need to target, say, and do to maximize the impact of your campaigns, interventions, and studies.
 
