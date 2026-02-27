@@ -29,4 +29,4 @@ We organized a workshop at the European Communication Science Event in Nijmegen.
 ![sustainability](/assets/img/ASI__Program_director.png){: style="width: 140px; height: 140px; float: left; margin-right: 25px;" }
 
 **Empowering sustainability education**  
-We investigated what motivates university program directors to offer sustainability education. The results provided content for the development of interventions aimed at increasing program directors' intention to include a sustainability course in their program. [More information](https://osf.io/y5mr2/){:target="_blank"}
+We investigated what motivates university program directors to offer sustainability education. The results provided content for the development of interventions aimed at increasing program directors' intention to include a sustainability course in their program. [More information](https://doi.org/10.1177/15245004261425019){:target="_blank"}
