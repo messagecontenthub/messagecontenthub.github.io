@@ -5,6 +5,13 @@ permalink: /cases/
 ---
 
 
+![fiets](/assets/img/fiets.jpg){: style="width: 140px; height: 140px; float: left; margin-right: 25px;" }
+
+**What encourages people to opt for repair, reuse, or sharing more frequently instead of purchasing new items?**  
+We are part of CIVIC-4CE (Circular Consumption through Value-Chain Integration and Co-Creation for the Circular Economy), a five-year, €2.3 million research project awarded under the NWO KIC call Consumer behavior for a circular system transition. In CIVIC-4CE, we collaborate with businesses, civil society organizations, and consumers to identify effective solutions that promote circular choices and enhance their appeal. Within the consortium, we are responsible for Work Package 2, which aims to understand the specific drivers and barriers that influence Dutch consumers' circular R-behaviors (e.g., repair). Our objective is to inform the design of targeted and effective behavior change interventions. [More information](https://www.dehaagsehogeschool.nl/over-de-haagse/evenementen-activiteiten/civic-4ce-de-consument-centraal-de-circulaire-transitie){:target="_blank"}
+
+<br>
+
 ![bnpl](/assets/img/BNPL.jpg){: style="width: 140px; height: 140px; float: left; margin-right: 25px;" }
 
 **Buy now, pay later? No, thank you!**  
@@ -29,4 +36,4 @@ We organized a workshop at the European Communication Science Event in Nijmegen.
 ![sustainability](/assets/img/ASI__Program_director.png){: style="width: 140px; height: 140px; float: left; margin-right: 25px;" }
 
 **Empowering sustainability education**  
-We investigated what motivates university program directors to offer sustainability education. The results provided content for the development of interventions aimed at increasing program directors' intention to include a sustainability course in their program. [More information](https://doi.org/10.1177/15245004261425019){:target="_blank"}
+We investigated what motivates university program directors to offer sustainability education. The results provided content for the development of interventions aimed at increasing program directors' intention to include a sustainability course in their program. [More information](https://osf.io/y5mr2/){:target="_blank"}
